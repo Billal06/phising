@@ -1,0 +1,9 @@
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+spark-parser==1.8.9
+uncompyle6==3.6.4
+Werkzeug==1.0.0
+xdis==4.2.2
